@@ -72,3 +72,23 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/ZedaRun/Saved/Config/CrashReportClient/UECC-Windows-6E723B8D426BF149E03B8DB117046DB7/CrashReportClient.ini
+/ZedaRun/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+/ZedaRun/Saved/Config/WindowsEditor/Engine.ini
+/ZedaRun/Saved/Config/WindowsEditor/Game.ini
+/ZedaRun/Saved/Config/WindowsEditor/GameUserSettings.ini
+/ZedaRun/Saved/Logs/ZedaRun.log
+/ZedaRun/Saved/SourceControl/UncontrolledChangelists.json
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/ObjectMixer.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/ObjectMixerSerializedData.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+/ZedaRun/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini
+/ZedaRun/Intermediate/ReimportCache/3688439234.bin
+/ZedaRun/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+/ZedaRun/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+/ZedaRun/Intermediate/CachedAssetRegistry_0.bin
+/.idea/.idea.ZedaRun.dir/.idea/encodings.xml
